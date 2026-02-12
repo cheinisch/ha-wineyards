@@ -1,5 +1,6 @@
 {
-  "name": "Wineyard Theme + Card Snippets",
+  "name": "Wineyards Theme",
   "content_in_root": false,
-  "filename": "winyard.yaml"
+  "filename": "wineyards.yaml",
+  "render_readme": true
 }
