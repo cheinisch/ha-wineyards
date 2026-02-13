@@ -13,7 +13,6 @@ Modernes Farbschema und stilvolle Karten für Home Assistant.
 Dieses Repository enthält:
 
 -   Wineyards Theme (Dark & Light)
--   Lovelace Card Snippets
 -   Updatefähig über HACS
 
 ------------------------------------------------------------------------
@@ -24,7 +23,7 @@ Klicke auf den Button unten, um das Repository direkt in HACS
 hinzuzufügen:
 
 [![Open your Home Assistant instance and add this
-repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?repository=https://github.com/cheinisch/ha-wineyards&category=theme)
+repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?repository=https://github.com/cheinisch/ha-wineyards-theme&category=theme)
 
 ### Danach:
 
@@ -51,26 +50,6 @@ frontend:
 -   wineyards_dark\
 -   wineyards_light
 
-------------------------------------------------------------------------
-
-## Karten verwenden
-
-Die Karten befinden sich im Ordner:
-
-    cards/
-
-Du kannst sie:
-
--   per Copy & Paste in dein Dashboard einfügen\
--   oder per `!include` in YAML-Dashboards verwenden
-
-Beispiel:
-
-``` yaml
-- !include /config/ha-wineyards/cards/example_card.yaml
-```
-
-Hinweis: Passe ggf. Entity-IDs an deine Installation an.
 
 ------------------------------------------------------------------------
 
