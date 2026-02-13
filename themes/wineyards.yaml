@@ -12,7 +12,7 @@
 ############################
 # 🍾 Riesling (Fresh & Bright)
 ############################
-riesling:
+Wineyard Riesling:
   # Typography (Light)
   primary-font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
   paper-font-common-base_-_font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
@@ -70,7 +70,7 @@ riesling:
 ############################
 # 🍷 Bordeaux (Deep Red)
 ############################
-bordeaux:
+Wineyard Bordeaux:
   # Typography (Light)
   primary-font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
   paper-font-common-base_-_font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
@@ -127,7 +127,7 @@ bordeaux:
 ############################
 # 🍇 Wineyard (Natural Green / Neutral)
 ############################
-wineyard:
+Wineyard:
   # Typography (Light)
   primary-font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
   paper-font-common-base_-_font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
@@ -184,7 +184,7 @@ wineyard:
 ############################
 # 🌙 Wineyard Dark (darker, higher contrast)
 ############################
-wineyard_dark:
+Wineyard dark:
   # Typography (Light)
   primary-font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
   paper-font-common-base_-_font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
@@ -241,7 +241,7 @@ wineyard_dark:
 ############################
 # ☀ Wineyard Light (bright, clean)
 ############################
-wineyard_light:
+Wineyard light:
   # Typography (Light)
   primary-font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
   paper-font-common-base_-_font-family: "Roboto, system-ui, -apple-system, Segoe UI, sans-serif"
